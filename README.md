@@ -31,8 +31,8 @@
 
 ### Helferliste
 * Daniel (Video-Technik)
-	* Tel.:			0162 7389 166
-	* E-Mail:		danielehrich@icloud.com
+	* Tel.:		
+	* E-Mail:	
 
 ***
 ### Zeitplan
